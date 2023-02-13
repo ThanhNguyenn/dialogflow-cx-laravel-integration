@@ -6,7 +6,7 @@ Exploring the possiblities of connecting between DialogFlow and Laravel Botman t
 
 ## Guide
 1. Git clone this file.
-2. Create a database call ``dialogflow``.
+2. Create a database in MySQL called ``dialogflow``.
 3. Update DB properties in ``.env`` file
 ```DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
