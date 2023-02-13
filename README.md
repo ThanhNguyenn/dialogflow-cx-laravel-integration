@@ -5,8 +5,8 @@
 Exploring the possiblities of building an agent in DialogFlow CX and integrate with Laravel Botman via webhooks.
 
 ## Guide
-1. Git clone this file
-2. Create a database call ``dialogflow``
+1. Git clone this file.
+2. Create a database call ``dialogflow``.
 3. Update DB properties in ``.env`` file
 ```DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
