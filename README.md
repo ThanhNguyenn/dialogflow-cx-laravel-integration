@@ -2,7 +2,7 @@
 <h1 align="left">DialogFlow CX Webhook Integration</h1>
 
 ## Description
-Exploring the possiblities of connecting between DialogFlow and Laravel Botman with Webhooks to handle incoming requests and store it into the database. This contributes to the available resources of the new expression DialogFlow CX.
+Exploring the possiblities of connecting between DialogFlow and Laravel Botman through Webhooks to handle incoming requests and store it into the database. This contributes to the available resources of the new expression DialogFlow CX.
 
 ## Guide
 1. Git clone this file.
